@@ -1,11 +1,11 @@
 ## hal1127のGitHubプロフィールへようこそ！
 
 ### 自己紹介
-React,Rails,Nginxに挑戦したがいずれも挫折。「できることしかできない」を座右の銘に日々謎サイトを錬成する大学生。<br>
-最近、halucky.netという何とも言えないセンスのドメインを取得し、ConohaVPSでサブドメインを利用して動的謎サイトを量産する技を会得した。
+AtCoderにはまりだした大学生。2021/10/09に茶コーダーへと昇格した。
+最近思うことは「努力ってやり方も大事」ってこと。
+昔取った杵柄でPHPとJSもいじれます。
 
 ### 勉強中
-- Vue.js (JavaScript)
-- Laravel (PHP)
-- PostgreSQL
-- Bootstrap
+- CakePHP (PHP)
+- MySQL
+- C++
